@@ -1,0 +1,2 @@
+bottle : to run webserver
+pandas : read csv file as dataframe and transform into html table
