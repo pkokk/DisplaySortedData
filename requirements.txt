@@ -1,2 +1,2 @@
-bottle : to run webserver
-pandas : read csv file as dataframe and transform into html table
+pandas == 0.19.2  #latest version for python 2.7 ### install pandas + all dependencies by : sudo pip install pandas
+bottle == 0.13 
